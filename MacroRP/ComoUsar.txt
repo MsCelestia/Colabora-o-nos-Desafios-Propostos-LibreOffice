@@ -1,0 +1,17 @@
+## Como usar
+
+Copie macroRP.py para a pasta de scripts Python do LibreOffice:
+
+C:\Usuários\<SeuNome>\AppData\Roaming\LibreOffice\4\user\Scripts\python\
+
+OBS: Se não houver a pasta Scripts\python\, crie as pastas.
+
+Abra o LibreOffice Calc (reinicie se já estiver aberto) e selecione as células com os valores de RP ou R$.
+
+Vá em: Ferramentas → Macros → Organizar Macros → Python…
+
+Escolha: Macros de Usuário → macroRP → converter_para_reais ou converter_para_rp
+
+Clique em Executar
+
+O resultado será exibido na coluna ao lado e o relatório será gerado em uma nova aba chamada Relatório RP.
