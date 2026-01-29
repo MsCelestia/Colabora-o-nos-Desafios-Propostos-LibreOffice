@@ -29,3 +29,5 @@
 
 ## Arquivo
 [Macro](./macroRP.py)
+
+- Desenvolvido por Sofia Coelho Berredo
