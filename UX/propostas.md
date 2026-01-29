@@ -61,10 +61,16 @@ Link dos prótotipos: https://www.figma.com/make/9ZKd7iaiQrz03UH8CpTf8z/UX-Impro
 ## Modelos para visualizar: 
 
 [Modos](./UX/Modos.png)
+
 [Mensagem de Erro](./UX/MensErro.png)
+
 [Acessibilidade](./UX/Acessibilidade.png)
+
 [Assistente](./UX/Assistente.png)
+
 [Fórmulas](./UX/Formulas.jpeg)
+
+https://www.canva.com/design/DAG_0u3Dbz4/Wn3Tl9rUtQakW3FA3E7NBQ/edit?utm_content=DAG_0u3Dbz4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 Desenvolvido por Sofia Coelho Berredo e Karla Alexandra Chaves
