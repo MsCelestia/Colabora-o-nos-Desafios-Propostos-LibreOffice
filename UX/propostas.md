@@ -62,7 +62,7 @@ Modelos para visualizar:
 
 [Modos](./UX/Modos.png)
 [Mensagem de Erro](./UX/MensErro.png)
-[Modos](./UX/Modos.png)
-[Mensagem de Erro](./UX/MensErro.png)
-[Modos](./UX/Modos.png)
+[Acessibilidade](./UX/Acessibilidade.png)
+[Assistente](./UX/Assistente.png)
+[Fórmulas](./UX/Formulas.jpeg)
 
