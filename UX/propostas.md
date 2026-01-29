@@ -67,5 +67,5 @@ Link dos prótotipos: https://www.figma.com/make/9ZKd7iaiQrz03UH8CpTf8z/UX-Impro
 [Fórmulas](./UX/Formulas.jpeg)
 
 
-- Desenvolvido por Sofia Coelho Berredo e Karla Alexandra Chaves
+Desenvolvido por Sofia Coelho Berredo e Karla Alexandra Chaves
 
