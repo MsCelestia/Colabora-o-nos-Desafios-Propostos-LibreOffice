@@ -24,6 +24,7 @@
 
 ## Como usar
 [Tutorial](./ComoUsar.txt)
+[Vídeo](https://www.canva.com/design/DAG_0cR1BWc/oRd7DpTJjxPr7tYEB3M9XA/edit?utm_content=DAG_0cR1BWc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Arquivo
 [Macro](./macroRP.py)
