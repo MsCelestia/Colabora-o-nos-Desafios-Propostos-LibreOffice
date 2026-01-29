@@ -23,4 +23,4 @@
 - Código comentado e organizado para facilitar manutenção
 
 ## Como usar
-[Tutorial](./MacroRP/ComoUsar)
+[Tutorial](./MacroRP/ComoUsar.txt)
