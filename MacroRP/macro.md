@@ -31,4 +31,11 @@ Se a Opção A não funcionou, tente esta:
 10. Pronto! Macro instalada! 
 
 ## Tutorial Completo
-[Tutorial]()
+[Tutorial](./Guia%20Completo.docx)
+
+[Apresentação](./Macro_RP_Apresentacao.pptx)
+
+## Arquivo
+[Macro](MacroRP/conversao_rp.bas)
+
+Desenvolvido por Dyogo Cesar Gonçalves
