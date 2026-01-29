@@ -60,5 +60,9 @@ Link dos prótotipos: https://www.figma.com/make/9ZKd7iaiQrz03UH8CpTf8z/UX-Impro
 
 Modelos para visualizar: 
 
-(./UX/Modos.png)
-(./UX/MensErro.png)
+[Modos](./UX/Modos.png)
+[Mensagem de Erro](./UX/MensErro.png)
+[Modos](./UX/Modos.png)
+[Mensagem de Erro](./UX/MensErro.png)
+[Modos](./UX/Modos.png)
+
