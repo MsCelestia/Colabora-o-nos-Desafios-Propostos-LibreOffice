@@ -59,3 +59,6 @@ Link do protótipo da proposta de fórmulas: https://www.figma.com/design/SL0IDO
 Link dos prótotipos: https://www.figma.com/make/9ZKd7iaiQrz03UH8CpTf8z/UX-Improvements-for-LibreOffice-Calc?t=IiCqpeIF091OzgRC-1
 
 Modelos para visualizar: 
+
+(./UX/Modos.png)
+(./UX/MensErro.png)
